@@ -1,2 +1,2 @@
 # nodo-hijo
-Nodo hijo de la red de sensores
+nodo hijo de la red de sensores
